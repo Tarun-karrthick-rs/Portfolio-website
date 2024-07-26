@@ -193,6 +193,7 @@ p{
 }
 .projdetails{
     border: 5px solid white;
+    justify-content: space-evenly;
 }
 table ,tr,td,th{
     border: 2px solid white;
